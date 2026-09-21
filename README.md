@@ -4,7 +4,7 @@ A Copilot canvas extension: paint a 12x12 brick mosaic of a rubber duck, then
 run up to three models in parallel and inspect each board's studs-used and
 time-taken metrics.
 
-![Duck, Duck, Debug canvas](./docs/screenshot.png)
+![Duck, Duck, Debug canvas](./.github/extensions/brick-canvas/docs/screenshot.png)
 
 ## Try it
 
