@@ -23,6 +23,8 @@ Debug"** canvas to play.
 In any Copilot App session, click ```+``` in the toolbar, and click Import canvas from gist/URL.
 ![alt text](image.png)
 
+Copy and paste the URL below into the Import canvas from gist/URL dialog:
+
 ```
 https://github.com/CP-Canvas-Demo/duck-duck-debug/tree/main/.github/extensions/brick-canvas
 ```
