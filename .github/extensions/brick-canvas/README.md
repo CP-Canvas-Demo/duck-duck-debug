@@ -18,12 +18,18 @@ Open the repo in the Copilot App and start a session — the extension loads
 automatically from `.github/extensions/brick-canvas/`. Open the **"Duck, Duck,
 Debug"** canvas to play.
 
-**Option 2 — Install from the gist**
+**Option 2 — Install from the URL**
 
-In any Copilot App session, run `install_extension` with this gist URL:
+In any Copilot App session, click ```+``` in the toolbar, and click Import canvas from gist/URL.
+![alt text](image.png)
 
 ```
-https://gist.github.com/mortenp1337/9e4a688819fc94c41f1db85d00e211b4
+https://github.com/CP-Canvas-Demo/duck-duck-debug/tree/main/.github/extensions/brick-canvas
 ```
+
+Choose ```Session scope (this session only)```
+![alt text](image-1.png)
 
 Then open the **"Duck, Duck, Debug"** canvas.
+
+![alt text](image-2.png)
