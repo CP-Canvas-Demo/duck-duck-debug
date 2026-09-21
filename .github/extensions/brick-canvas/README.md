@@ -11,7 +11,7 @@ time-taken metrics.
 **Option 1 — Clone this repo**
 
 ```
-git clone https://github.com/mortenp1337-test-org/lego-workshop-fy27.git
+git clone https://github.com/CP-Canvas-Demo/duck-duck-debug.git
 ```
 
 Open the repo in the Copilot App and start a session — the extension loads
