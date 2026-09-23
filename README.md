@@ -8,6 +8,10 @@ time-taken metrics.
 
 ## Try it
 
+**Prerequisite:** These exercises use the Copilot App as the example host. Add
+`CP-Canvas-Demo/game-editor-canvas` to the Copilot App, then start a session for
+the repository.
+
 **Option 1 — Clone this repo**
 
 ```
