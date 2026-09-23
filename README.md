@@ -8,17 +8,12 @@ time-taken metrics.
 
 ## Try it
 
-**Prerequisite:** These exercises use the Copilot App as the example host. Add
-`CP-Canvas-Demo/game-editor-canvas` to the Copilot App, then start a session for
-the repository.
 
-**Option 1 — Clone this repo**
+**Option 1 — Open Repo in GitHub Copilot App**
 
-```
-git clone https://github.com/CP-Canvas-Demo/duck-duck-debug.git
-```
 
-Open the repo in the Copilot App and start a session — the extension loads
+Open the repo in GitHub Copilot App: `CP-Canvas-Demo/duck-duck-canvas` then start a session for
+the repository. in the Copilot App and start a session — the extension loads
 automatically from `.github/extensions/brick-canvas/`. Open the **"Duck, Duck,
 Debug"** canvas to play.
 
